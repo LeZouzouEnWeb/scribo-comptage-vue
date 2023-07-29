@@ -4,7 +4,7 @@
  * Plugin Name:       Scribo Comptage de vue
  * Plugin URI:        https://www.corbisier.fr/wordpress/plugins/scribo-comptage-vue/
  * Description:       Un plugin pour compter le nombre du vue par jour, par pc et ip
- * Version:           1.0.01
+ * Version:           1.0.02
  * Requires at least: 6.2
  * Requires PHP:      8.0
  * Author:            Eric CORBISIER
@@ -18,7 +18,7 @@
 
 defined('ABSPATH') or die();
 define('WPSCV_DIR_PLUGIN', 'scribo-comptage_vue');
-define('WPSCV_VERSION', '1.0.01');
+define('WPSCV_VERSION', '1.0.02');
 
 $args_version = array(
     WPSCV_DIR_PLUGIN => WPSCV_VERSION,
